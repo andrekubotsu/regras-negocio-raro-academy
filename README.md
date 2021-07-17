@@ -37,6 +37,7 @@ DadosRecorrencia
 - listaDataTransferencia - (gerado no back-end)
 
 feriados: [Feriado]
+
 listaBancos: [Banco]
 
 Transferência
@@ -47,6 +48,7 @@ Transferência
 - recorrencia: DadosRecorrencia
 
 
+## =============
 Transferência
   - Banco
     - É o mesmo banco?
