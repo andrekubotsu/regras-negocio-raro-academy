@@ -10,10 +10,9 @@ Aprender mais o funcionamento das regras de negócio voltadas à área de desenv
 
 ### Extração de modelos:
 
-Banco {
- nome
- codigo
-}
+`Banco
+-- nome
+-- codigo
 
 TipoConta
 -- nome
@@ -46,7 +45,7 @@ Transferência
 -- Valor
 -- Data
 -- recorrencia: DadosRecorrencia
-
+`
 
 
 Transferência
