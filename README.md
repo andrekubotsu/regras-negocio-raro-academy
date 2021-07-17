@@ -11,40 +11,40 @@ Aprender mais o funcionamento das regras de negócio voltadas à área de desenv
 ### Extração de modelos:
 
 Banco
--- nome
--- codigo
+- nome
+- codigo
 
 TipoConta
--- nome
--- codigo
+- nome
+- codigo
 
 Favorecido
--- banco: Banco
--- tipoConta: TipoConta
--- Agencia
--- Conta
--- Digito
--- CPF_CNPJ
--- titularidade
+- banco: Banco
+- tipoConta: TipoConta
+- Agencia
+- Conta
+- Digito
+- CPF_CNPJ
+- titularidade
 
 Limites
--- minimo
--- maximo
--- saldo
+- minimo
+- maximo
+- saldo
 
 DadosRecorrencia
--- mesesRecorrencia
--- listaDataTransferencia - (gerado no back-end)
+- mesesRecorrencia
+- listaDataTransferencia - (gerado no back-end)
 
 feriados: [Feriado]
 listaBancos: [Banco]
 
 Transferência
--- origem: Favorecido
--- favorecido: Favorecido
--- Valor
--- Data
--- recorrencia: DadosRecorrencia
+- origem: Favorecido
+- favorecido: Favorecido
+- Valor
+- Data
+- recorrencia: DadosRecorrencia
 
 
 Transferência
