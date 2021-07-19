@@ -6,7 +6,7 @@ Aprender mais o funcionamento das regras de negócio voltadas à área de desenv
 
 ## Realidade com esse tema:
 
-
+Eu acho que a expectativa foi até superada. Nos ajudou a enxergar a importância das perguntas, pontos que podem evitar ou reduzir o re-trabalho. É um tema bastante interessante e importante durante todo o processo de desenvolvimento mas, acho que ainda mais importante durante a fase de planejamento / arquitetura. O alinhamento entre as partes é de suma importância, inclusive, no direcionamento do projeto.
 
 ### Extração de modelos:
 
